@@ -7,7 +7,7 @@ Centering items is one of the most useful abilities Flexbox offers. Create a con
 
 <details>
 <summary>
-Screenshot
+Expand to see Screenshot
 </summary>
 
 ![Centered Button Screenshot](./images/centerButton.png)
@@ -23,7 +23,7 @@ Create a simple three column layout with numbers centered on each column.
 
 <details>
 <summary>
-Screenshot
+Expand to see Screenshot
 </summary>
 
 ![3 Column Layout screenshot](./images/3columnLayout.png)
@@ -42,7 +42,7 @@ Display the items in a 8x8 grid using flexbox
 
 <details>
 <summary>
-Screenshot
+Expand to see Screenshot
 </summary>
 
 ![Chessboard Screenshot](./images/chessboard.png)
@@ -57,7 +57,7 @@ Recreate the navigation bar shown below using the provided HTML.
 
 <details>
 <summary>
-Screenshot
+Expand to see Screenshot
 </summary>
 
 ![Navigation Screenshot](./images/navigation.png)
@@ -71,7 +71,7 @@ Create add-on for input fields that can be put before or after an input field.
 
 <details>
 <summary>
-Screenshot
+Expand to see Screenshot
 </summary>
 
 ![Input form screenshot](./images/form.png)
@@ -88,7 +88,7 @@ He is known for being one of the pioneers of 20th-century abstract art, as he ch
 
 <details>
 <summary>
-Screenshot
+Expand to see Screenshot
 </summary>
 
 ![The artist Mondrian](./images/mondrian.png)
