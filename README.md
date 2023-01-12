@@ -5,8 +5,8 @@ Flexbox makes it easier to build page layouts that are dynamic. As the designer 
 In this lesson, we will discuss some of the common ways to use flexbox and the associated properties you can use while coding through some examples. Feel free to code along using the provided html files.
 
 ## Objectives 
-1. Setting up a Flex Container 
-2. Identify and use Flex Properties 
+1. Setting up a **Flex Container** 
+2. Identify and use **Flex Properties** 
 
 #
 
