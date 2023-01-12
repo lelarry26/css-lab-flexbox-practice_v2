@@ -24,7 +24,7 @@ Centering items is one of the most useful abilities Flexbox offers.
 
 - Open the file `centerButton.html` 
 - Create a container that's 500px by 500px
-- Center a button directly in the center using Flexbox.
+- Center a button directly in the center using Flexbox (see screenshot).
 
 <details>
 <summary>
@@ -42,6 +42,9 @@ Expand to see Screenshot
 
 Create a simple three column layout with numbers centered on each column. 
 
+- open the file `centerButton.html` 
+- create the layout in the screenshot below
+
 <details>
 <summary>
 Expand to see Screenshot
@@ -56,9 +59,10 @@ Expand to see Screenshot
 
 Create a chessboard using Flexbox.
 
-Define 64 cells and wrap them around how ever flex containers are necessary
-Alternate the items' background colors (`#ffce9e` and `#d18a46`) using your CSS knowledge
-Display the items in a 8x8 grid using flexbox
+- open the file `chessboard.html` 
+- Define 64 cells and wrap them around how ever flex containers are necessary
+- Alternate the items' background colors (`#ffce9e` and `#d18a46`) using your CSS knowledge
+- Display the items in a 8x8 grid using flexbox
 
 
 <details>
@@ -71,11 +75,12 @@ Expand to see Screenshot
 </details>
 
 
-
 #
 
-## Navigation 
-Recreate the navigation bar shown below using the provided HTML.
+## Navigation
+
+- open the `navigation.html` file
+- Recreate the navigation bar shown below using the provided HTML.
 
 <details>
 <summary>
@@ -89,7 +94,8 @@ Expand to see Screenshot
 
 ## Input Add-ons 
 
-Create add-on for input fields that can be put before or after an input field. 
+- open the file `inputAddOns.html`
+- Create add-on for input fields that can be put before or after an input field (see screenshot). 
 
 <details>
 <summary>
@@ -106,7 +112,10 @@ Expand to see Screenshot
 
 Piet Mondrian is regarded as one of the greatest artists of the 20th century 
 
-He is known for being one of the pioneers of 20th-century abstract art, as he changed his artistic direction from figurative painting to an increasingly abstract style, until he reached a point where his artistic vocabulary was reduced to simple geometric elements. 
+He is known for being one of the pioneers of 20th-century abstract art, as he changed his artistic direction from figurative painting to an increasingly abstract style, until he reached a point where his artistic vocabulary was reduced to simple geometric elements.
+
+- open th efile `mondrian.html`
+- recreate the mondrian painting shown in the screenshot below
 
 <details>
 <summary>
