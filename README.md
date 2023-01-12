@@ -6,7 +6,7 @@ In this lesson, we will discuss some of the common ways to use flexbox and the a
 
 ## Objectives 
 1. Setting up a Flex Container 
-2. Identify and User Flex Properties 
+2. Identify and use Flex Properties 
 
 #
 
