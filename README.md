@@ -16,9 +16,8 @@ In this lesson, we will discuss some of the common ways to use flexbox and the a
 - On your terminal command line, navigate into the cloned directory: 
     - `cd css-lab-flexbox-practice` 
 
-
 # 
-## Center Button 
+## `Center Button` 
 
 Centering items is one of the most useful abilities Flexbox offers. 
 
@@ -38,7 +37,7 @@ Expand to see Screenshot
 
 #
 
-## Three Column Layout 
+## `Three Column Layout` 
 
 Create a simple three column layout with numbers centered on each column. 
 
@@ -55,7 +54,7 @@ Expand to see Screenshot
 </details>
 
 #
-## Chessboard 
+## `Chessboard` 
 
 Create a chessboard using Flexbox.
 
@@ -77,7 +76,7 @@ Expand to see Screenshot
 
 #
 
-## Navigation
+## `Navigation`
 
 - Open the `navigation.html` file
 - Recreate the navigation bar shown below using the provided HTML.
@@ -92,7 +91,7 @@ Expand to see Screenshot
 
 #
 
-## Input Add-ons 
+## `Input Add-ons` 
 
 - Open the file `inputAddOns.html`
 - Create add-on for input fields that can be put before or after an input field (see screenshot). 
@@ -108,7 +107,7 @@ Expand to see Screenshot
 
 #
 
-## Mondrian CSS Painting 
+## `Mondrian CSS Painting` 
 
 Piet Mondrian is regarded as one of the greatest artists of the 20th century 
 
