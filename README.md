@@ -11,8 +11,10 @@ In this lesson, we will discuss some of the common ways to use flexbox and the a
 #
 
 ## Getting Started 
-- `git clone https://github.com/DigitalCraftsStudents/css-lab-flexbox-practice.git` 
-- navigate into the cloned directory: `cd css-lab-flexbox-practice` 
+- Clone ths directory by running the following command inside of your terminal: 
+    - `git clone https://github.com/DigitalCraftsStudents/css-lab-flexbox-practice.git` 
+- On your terminal command line, navigate into the cloned directory: 
+    - `cd css-lab-flexbox-practice` 
 
 
 # 
