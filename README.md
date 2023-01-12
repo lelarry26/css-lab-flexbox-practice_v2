@@ -1,9 +1,28 @@
 # CSS Flexbox 
 
+Flexbox makes it easier to build page layouts that are dynamic. As the designer of a web page, you can designate some parts of your page to automatically resize depending on window size, filling empty space in a way that you specify. It is also very useful for displaying columns or rows of items, keeping items evenly spaced regardless of their individual sizes, or allowing them to wrap to a new line cleanly.
 
+In this lesson, we will discuss some of the common ways to use flexbox and the associated properties you can use while coding through some examples. Feel free to code along using the provided html files.
+
+## Objectives 
+1. Setting up a Flex Container 
+2. Identify and User Flex Properties 
+
+#
+
+## Getting Started 
+- `git clone https://github.com/DigitalCraftsStudents/css-lab-flexbox-practice.git` 
+- navigate into the cloned directory: `cd css-lab-flexbox-practice` 
+
+
+# 
 ## Center Button 
 
-Centering items is one of the most useful abilities Flexbox offers. Create a container that's 500px by 500px and center a button directly in the center using Flexbox.
+Centering items is one of the most useful abilities Flexbox offers. 
+
+- Open the file `centerButton.html` 
+- Create a container that's 500px by 500px
+- Center a button directly in the center using Flexbox.
 
 <details>
 <summary>
@@ -15,7 +34,7 @@ Expand to see Screenshot
 </details>
 
 
-
+#
 
 ## Three Column Layout 
 
@@ -30,7 +49,7 @@ Expand to see Screenshot
 
 </details>
 
-
+#
 ## Chessboard 
 
 Create a chessboard using Flexbox.
@@ -51,6 +70,7 @@ Expand to see Screenshot
 
 
 
+#
 
 ## Navigation 
 Recreate the navigation bar shown below using the provided HTML.
@@ -63,7 +83,7 @@ Expand to see Screenshot
 ![Navigation Screenshot](./images/navigation.png)
 </details>
 
-
+#
 
 ## Input Add-ons 
 
@@ -78,9 +98,9 @@ Expand to see Screenshot
 
 </details>
 
+#
 
-
-## Mondrian CSS Paintng 
+## Mondrian CSS Painting 
 
 Piet Mondrian is regarded as one of the greatest artists of the 20th century 
 
